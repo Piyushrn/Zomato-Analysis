@@ -1,4 +1,4 @@
-# Zomato-EDAA
+# Zomato EDA
 
 Dataset - https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants
 
